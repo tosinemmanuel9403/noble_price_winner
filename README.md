@@ -27,6 +27,11 @@ i got this data from kaggle for  learning purposes [here](https://onedrive.live.
 - What is the gender distribution of Nobel Prize laureates over the years?
 i analysis using pivot table to get the gender distibution over the year
 
+![image](https://github.com/tosinemmanuel9403/noble_price_winner/blob/main/GENDER_DISTRIBUTION.png)
+
+-  Which country has the highest number of Nobel Prize laureates, and in which categories?
+i used pivot to deter the country with the highest number prize winner
+
 
 
 
