@@ -32,6 +32,20 @@ i analysis using pivot table to get the gender distibution over the year
 -  Which country has the highest number of Nobel Prize laureates, and in which categories?
 i used pivot to deter the country with the highest number prize winner
 
+![image](https://github.com/tosinemmanuel9403/noble_price_winner/blob/main/COUNTRY_WITH-HIGHEST.png)
+
+
+## insight
+
+- males won more award than female over the year with 869 and 54 respectively
+- united of america is the country with the higest number of winner
+
+## recommendations
+
+base on the dataset giver there is limitation , further investigation need to be conducted to know why male winning than female , this we will be be to help emale win more
+
+
+
 
 
 
